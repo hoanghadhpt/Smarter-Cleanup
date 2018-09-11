@@ -1,0 +1,13 @@
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\Smarter Cleanup.exe.config
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\Smarter Cleanup.exe
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\Smarter Cleanup.pdb
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\Cleanup.dll
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\RemoveEmphasis.dll
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\Validation.dll
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\obj\Debug\Smarter Cleanup.csprojResolveAssemblyReference.cache
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\obj\Debug\Smarter_Cleanup.Form1.resources
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\obj\Debug\Smarter_Cleanup.Properties.Resources.resources
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\obj\Debug\Smarter Cleanup.csproj.GenerateResource.Cache
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\obj\Debug\Smarter Cleanup.exe
+c:\users\e1897\documents\visual studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\obj\Debug\Smarter Cleanup.pdb
+C:\Users\E1897\Documents\Visual Studio 2015\Projects\Smarter Cleanup\Smarter Cleanup\bin\Debug\SKGL.dll
